@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
-# click to see live [https://shopping-app-redux-three.vercel.app/]
+### click to see live [https://shopping-app-redux-three.vercel.app/]
 
 ## Available Scripts
 
